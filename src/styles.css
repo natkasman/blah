@@ -1,0 +1,10 @@
+body {
+  background-color: powderblue;
+}
+
+.App {
+  font-family: "Lora", serif;
+  text-align: center;
+  font-size: 2vw;
+  cursor: cell;
+}
